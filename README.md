@@ -36,6 +36,61 @@ Ezek az addonok mindegyik működik most a Tauri Legion 7.3.5 kliensével, a jel
 
 ---
 
+# 🌟 WoW Addon Kiegészítések
+
+Üdv! Itt a **hiányzó főcsaládok és addonok** listája, színes és barátságos magyar leírással, valamint a megfelelő CurseForge linkekkel.  
+Könnyen áttekintheted, mit csinál az adott addon és hol találod.
+
+---
+
+## 🖌 ElvUI
+**Letöltés / Web:** [Tukui / ElvUI](https://www.tukui.org/)  
+
+> Teljes UI átalakító csomag: testreszabható **action bar-ok, unit frame-ek, raid frame-ek, minimap, buff/debuff panel** és még sok minden.  
+> ⚠️ Kicsit bonyolult a beállítása, időt igényel a tökéletes UI eléréséhez, érdemes használni youtube videókat, leírásokat, nekem a ChatGPT sokat segített a beállításában.
+
+---
+
+## 🌈 CursorTrail
+**CurseForge:** [CursorTrail](https://www.curseforge.com/wow/addons/cursortrail)  
+
+> Kattintás- és mozgás alapú vizuális effekt a kurzorhoz.  
+> 🎨 Színes csíkot húz a kurzor után, hogy látványosabb legyen a mozgás.
+
+---
+
+## 🗺 HandyNotes
+**CurseForge:** [HandyNotes](https://www.curseforge.com/wow/addons/handynotes)  
+
+> Jelzi a térképen a **kincseket, titkos helyeket, ritka mobokat**.  
+> 🔎 Bővíthető: TreasureHunter plugin, adatcsomagokkal a teljes térképes áttekintéshez.
+
+---
+
+## 🐴 LiteMount
+**CurseForge:** [LiteMount](https://www.curseforge.com/wow/addons/litemount)  
+
+> Gyors mount selector: egy kattintás és felülsz a kedvenc mountodra.  
+> ⚡ Gyors, kényelmes, nincs túl sok extra gomb vagy menü.
+
+---
+
+## ⚠ Rare Spawn Overlay
+**CurseForge:** [Rare Spawn Overlay](https://www.curseforge.com/wow/addons/rare-spawn-overlay)  
+
+> Térképen kiemeli a **ritka mobok spawn pontjait**.  
+> 🔍 Gyakran együtt használják SilverDragon-ral a teljes rare tracking élményhez.
+
+---
+
+## 🌍 WorldQuestList
+**CurseForge:** [WorldQuestList](https://www.curseforge.com/wow/addons/world-quest-list)  
+
+> Rendezett lista az aktuális **World Quest-ekről**, időzítőkkel, nehézséggel, jutalmakkal.  
+> 📋 Könnyen áttekintheted, melyik küldetés a legérdemesebb.
+
+---
+
 ## 🎒 Bagnon
 **CurseForge:** [Bagnon](https://www.curseforge.com/wow/addons/bagnon)  
 
